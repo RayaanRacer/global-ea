@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1780385305900,
+      "tag": "0000_tense_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1780385932298,
+      "tag": "0001_clammy_scream",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1780386030432,
+      "tag": "0002_good_blackheart",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1780386577507,
+      "tag": "0003_oval_lyja",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1780389637806,
+      "tag": "0004_common_the_professor",
+      "breakpoints": true
+    }
+  ]
+}
